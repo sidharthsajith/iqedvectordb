@@ -1,6 +1,6 @@
 streamlit
 numpy
-pinecone-client
+pinecone
 openai
 tiktoken
 python-dotenv
