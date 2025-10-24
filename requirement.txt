@@ -1,7 +1,0 @@
-streamlit
-numpy
-pinecone-client
-openai
-tiktoken
-python-dotenv
-requests
