@@ -21,7 +21,7 @@ if "chat_history" not in st.session_state:
 # Config from Streamlit secrets
 OPENAI_API_KEY = st.secrets["openai_api_key"]
 OPENAI_BASE_URL = "https://openrouter.ai/api/v1"
-ANSWER_MODEL = "google/gemini-2.5-flash-preview-09-2025"
+ANSWER_MODEL = "google/gemini-2.5-flash-lite-preview-09-2025"
 
 # App header
 st.title("🧮 IQEd Math Chatbot")
