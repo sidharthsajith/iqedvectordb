@@ -1,7 +1,7 @@
-streamlit
-numpy
+fastapi
+mangum
 pinecone
 openai
-tiktoken
+numpy
+python-multipart
 python-dotenv
-requests
